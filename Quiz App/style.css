@@ -1,0 +1,40 @@
+body{ 
+   background-color:#33ccff !important;
+}
+.mainheading{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5px;
+    text-decoration:underline blue;
+    margin-top: 25px;
+}
+
+.rules{
+  margin: 0 auto;
+  align-content: center;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: fit-content;
+  padding: 10px;
+  margin-top: 10px;
+  background-color:white;
+
+}
+#note{
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 20px;
+}
+#chkbox{
+  margin-left: 10px;
+}
+span {
+  font-size: 15px;
+  color: blue;
+}
+
+#btn-agree{
+     text-align: right;
+}
+
+
